@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>268e191a433095b19fd4135cbde6970b816600ee</guid>
+	<type>texture</type>
+	<hash>1d624acd</hash>
+	<runtimes>
+		<runtime id="268e191a433095b19fd4135cbde6970b816600ee" name="flow_albedo.jpg" link="0" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">1</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

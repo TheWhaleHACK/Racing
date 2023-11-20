@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>138ab2e47604e0f3240a31b67b87fd9d75b86258</guid>
+	<type>texture</type>
+	<hash>97fc6b38</hash>
+	<runtimes>
+		<runtime id="138ab2e47604e0f3240a31b67b87fd9d75b86258" name="salon_sh.png" link="0" type="6"/>
+		<runtime id="5100ed3361f850f60e5313dd012603984aa3b217" name="salon_sh.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">shading (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

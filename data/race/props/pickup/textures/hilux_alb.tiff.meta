@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>1807ee1f5ebd64f25de77fa9358ec4f412fc2bc3</guid>
+	<type>texture</type>
+	<hash>b14a8f11</hash>
+	<runtimes>
+		<runtime id="1807ee1f5ebd64f25de77fa9358ec4f412fc2bc3" name="hilux_alb.tiff" link="0" type="6"/>
+		<runtime id="6f76f3590e1fc4e456c2caf312eb13b648ff779d" name="hilux_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">2048</parameter>
+		<parameter type="string" name="image_format">Auto (DXT1 or DXT5)</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgba)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">2048</parameter>
+	</parameters>
+</asset>

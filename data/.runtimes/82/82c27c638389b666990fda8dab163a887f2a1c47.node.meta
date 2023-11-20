@@ -1,0 +1,9 @@
+{
+	"asset": "ca9a7b13182bc5562cae3cbddbf056f8a8822df7",
+	"alias": "chekpoint.node",
+	"primary": 1,
+	"version": "2.17.0.1",
+	"parameters": {
+		"UnigineEditor.AssetHash": "a4a5b1"
+	}
+}

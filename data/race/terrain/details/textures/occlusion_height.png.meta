@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>6f6d06ec02c6555bbc668afe3bd33645ba8532e0</guid>
+	<type>texture</type>
+	<hash>75ccbc6d</hash>
+	<runtimes>
+		<runtime id="6f6d06ec02c6555bbc668afe3bd33645ba8532e0" name="occlusion_height.png" link="0" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">parallax</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">1</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

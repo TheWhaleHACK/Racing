@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>979a5ce682bf4f0dd1ea2508cddc04c7d1f17b7a</guid>
+	<type>material</type>
+	<hash>230b38ea</hash>
+	<runtimes>
+		<runtime id="979a5ce682bf4f0dd1ea2508cddc04c7d1f17b7a" name="checkpoint_2_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

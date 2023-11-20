@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brush_material version="2.17.0.1" guid="3c1e224f56d9018253e0433be987adb20fd96d0d" parent="4e346f63fa250d66029d458dd2e6a98867f9bf47" base_material="4ead25919e699e8cee293bb91aceeaee9211d783">
+	<parameter name="color" expression="0">1 0 0 1</parameter>
+</brush_material>

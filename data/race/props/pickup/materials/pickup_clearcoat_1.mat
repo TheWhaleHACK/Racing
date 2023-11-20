@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="c4d4c5904d045bafd6465542776b93b996d229c4" base_material="a779aa01d171fb6cd6f1bfdb3589f37eb2c284c5">
+	<state name="voxel_probe">0</state>
+	<state name="planar_probe">0</state>
+	<texture name="normal">guid://aa47f1bc27c321eb50ce4e4e2fba0155e6b5e2b0</texture>
+	<texture name="dust_mask">guid://ae1d06013a65a76c0dd97bdbb0367f7e594da0c5</texture>
+	<texture name="ambient_occlusion_texture">guid://8c8f52c48fd43f534a8c3c96d057cafd9e7a1038</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+	<parameter name="roughness" expression="0">0.0500000007</parameter>
+	<parameter name="specular" expression="0">0.5</parameter>
+	<parameter name="dust_intensity" expression="0">0.5</parameter>
+	<parameter name="step_size" expression="0">0.570330024</parameter>
+	<parameter name="threshold" expression="0">0.475699991</parameter>
+</material>

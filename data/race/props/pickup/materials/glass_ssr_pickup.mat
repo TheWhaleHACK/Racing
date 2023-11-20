@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="8ca6d058308297d78f8f534ac41faa216d0cbd0c" base_material="fea51068898238a7a2ed5dda402b9371416d761c">
+	<options order="-1"/>
+	<state name="voxel_probe">0</state>
+	<state name="planar_probe">0</state>
+	<texture name="albedo">guid://6f76f3590e1fc4e456c2caf312eb13b648ff779d</texture>
+	<texture name="dust_mask">guid://b79acc7033aff50fe6795f2296d25419e9102ea4</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+	<parameter name="dust_color" expression="0">0.470588267 0.427451015 0.368627459 1</parameter>
+	<parameter name="dust_intensity" expression="0">0.0673125014</parameter>
+	<parameter name="dust_tiling" expression="0">3</parameter>
+</material>

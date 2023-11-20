@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>b8a9f48a35f95a612794304c019faf3b0e1f5b5e</guid>
+	<type>material</type>
+	<hash>ec3d0e8d</hash>
+	<runtimes>
+		<runtime id="b8a9f48a35f95a612794304c019faf3b0e1f5b5e" name="detail_flow" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>0d702060c166d83f26f80892e0b38ec922124994</guid>
+	<type>texture</type>
+	<hash>472a9d2c</hash>
+	<runtimes>
+		<runtime id="0d702060c166d83f26f80892e0b38ec922124994" name="Ground025_2K_Color.png" link="0" type="6"/>
+		<runtime id="7021a7e3bc33ebe68485920d72ad8c08e1d23fc7" name="Ground025_2K_Color.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">Auto (DXT1 or DXT5)</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgba)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

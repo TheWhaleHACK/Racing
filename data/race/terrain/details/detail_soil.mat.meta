@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>a1d8b14e1bb30855ca253db05d17354f6a912262</guid>
+	<type>material</type>
+	<hash>2497991f</hash>
+	<runtimes>
+		<runtime id="a1d8b14e1bb30855ca253db05d17354f6a912262" name="detail_soil" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

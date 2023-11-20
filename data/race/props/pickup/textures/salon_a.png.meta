@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>1c3ea7e307acebe60faa920d418e8c08093f3fc7</guid>
+	<type>texture</type>
+	<hash>6eb4f98a</hash>
+	<runtimes>
+		<runtime id="1c3ea7e307acebe60faa920d418e8c08093f3fc7" name="salon_a.png" link="0" type="6"/>
+		<runtime id="024487e96dd1b034115d9e0359702b86388e8d2d" name="salon_a.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">ambient occlusion</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

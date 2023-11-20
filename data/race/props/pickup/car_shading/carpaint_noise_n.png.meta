@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>c467e9b46f67898393462106e1bd04ad77ca1e28</guid>
+	<type>texture</type>
+	<hash>34a85b3</hash>
+	<runtimes>
+		<runtime id="c467e9b46f67898393462106e1bd04ad77ca1e28" name="carpaint_noise_n.png" link="0" type="6"/>
+		<runtime id="cb9e6b672f54719a610614318e927fdc554d198b" name="carpaint_noise_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>536a7d011bbeb26c0cc10adbdbf2c27e1f8f07c5</guid>
+	<type>texture</type>
+	<hash>06384889</hash>
+	<runtimes>
+		<runtime id="536a7d011bbeb26c0cc10adbdbf2c27e1f8f07c5" name="arrow.png" link="0" type="6"/>
+		<runtime id="9607d660e99f163fa8872e92341c7cc96b3a5f94" name="arrow.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT5</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

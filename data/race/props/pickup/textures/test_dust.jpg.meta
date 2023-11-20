@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>962c716ca56dbddbe709d97e21e532c53c8a0560</guid>
+	<type>texture</type>
+	<hash>d010b9d3</hash>
+	<runtimes>
+		<runtime id="962c716ca56dbddbe709d97e21e532c53c8a0560" name="test_dust.jpg" link="0" type="6"/>
+		<runtime id="d3f5793fa55c35929ab7d7c96a5ffe94bf31d8e3" name="test_dust.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

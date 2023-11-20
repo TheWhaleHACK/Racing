@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>8abfc8043a41b393e8aca3d6d660893dfcf93978</guid>
+	<type>material</type>
+	<hash>b24efc4d</hash>
+	<runtimes>
+		<runtime id="8abfc8043a41b393e8aca3d6d660893dfcf93978" name="detail_protrusion" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

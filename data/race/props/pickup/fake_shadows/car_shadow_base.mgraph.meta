@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>689fe2fd6bb3483830c7ee37a2def62a61f02f81</guid>
+	<type>material_graph</type>
+	<hash>c277abff</hash>
+	<runtimes>
+		<runtime id="689fe2fd6bb3483830c7ee37a2def62a61f02f81" name="car_shadow_base.mgraph" link="0"/>
+		<runtime id="af0e14bfc3111b1299d87f49bd4580140bf26c63" name="car_shadow_base" link="1" type="5"/>
+	</runtimes>
+</asset>

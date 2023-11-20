@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="1613461415" name="point">
+		<properties>
+			<property parent="3d6f3581e3ff10ec182cd75b5c6724fea3370845" guid="03708eaa3097ee017b136f6c1c5ca3db96cf877e">
+				<parameter name="trigger">865776576</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="PhysicalTrigger" id="865776576" name="PhysicalTrigger">
+			<type>2</type>
+			<size>2.5 8.51880741 1</size>
+			<exclusion_mask>0x0</exclusion_mask>
+			<transform>0.99999988 0 0 0.0 0 0.99999988 0 0.0 0 0 1 0.0 0 0 3.4276962 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2000956486" name="Cylinder">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://3bc5acfaecce581113a9323c8de6686b712fe2ce</mesh_name>
+			<surface name="chekpoint_0_mat" lighting_mode="1" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" bake_to_gi="0" cast_env_probe_shadow="0" physics_intersection="1" physics_friction="1" physics_restitution="1" material="1c5670f225751ba97fe7b0f4538827c39c3baa46" intersection="1"/>
+			<surface name="chekpoint_1_mat" lighting_mode="1" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" bake_to_gi="0" cast_env_probe_shadow="0" physics_intersection="1" physics_friction="1" physics_restitution="1" material="2b882e6a3d318ac1a214e52c2c1a1e9bdf17433e" intersection="1"/>
+			<surface name="chekpoint_2_mat" lighting_mode="1" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" bake_to_gi="0" cast_env_probe_shadow="0" physics_intersection="1" physics_friction="1" physics_restitution="1" material="979a5ce682bf4f0dd1ea2508cddc04c7d1f17b7a" intersection="1"/>
+			<transform>2.4000714 6.0601703e-22 -9.1715516e-15 0.0 1.9578536e-22 2.4000711 2.0982085e-07 0.0 9.1715491e-15 -2.0982081e-07 2.4000707 0.0 0 0 3.9474335 1.0</transform>
+		</node>
+		<node material="9e4e581417756463010f7e66ce8b028d5c474288" type="DecalOrtho" id="1197414125" name="Decal">
+			<width>5</width>
+			<height>5</height>
+			<znear>0.00100000005</znear>
+			<radius>20</radius>
+			<transform>0.99999958 -1.4349296e-42 -8.470328e-22 0.0 6.0185332e-36 0.9999997 7.1054269e-15 0.0 8.4703325e-22 -7.1054299e-15 1.0000001 0.0 0 0 2.4737816 1.0</transform>
+		</node>
+	</node>
+</nodes>

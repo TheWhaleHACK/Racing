@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>c227db155ecc717095f3560f358b4c22e4295d19</guid>
+	<type>material</type>
+	<hash>4b9eb545</hash>
+	<runtimes>
+		<runtime id="c227db155ecc717095f3560f358b4c22e4295d19" name="car_shadow_base_0" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="25da67654695718072beb6dfe8c216b29ab70669" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="emission">1</state>
+	<state name="geometry_inflation">1</state>
+	<texture name="albedo">guid://c8332efe628f8a45ef8d76e05fdb3cbf636c2312</texture>
+	<texture name="shading">guid://b7365d8c56237b7bce723a9ef504e165a259a380</texture>
+	<texture name="normal">guid://aa47f1bc27c321eb50ce4e4e2fba0155e6b5e2b0</texture>
+	<texture name="emission">guid://c4512d1bf429ffbe5804a405928245a0616a3c7f</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+	<parameter name="albedo_color" expression="0">0.5 0.5 0.5 1</parameter>
+	<parameter name="metalness" expression="0">1</parameter>
+</material>

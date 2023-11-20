@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>3a861f8f3ac887a25d7a62995fdfeb2449023c33</guid>
+	<type>material</type>
+	<hash>1fcebd1</hash>
+	<runtimes>
+		<runtime id="3a861f8f3ac887a25d7a62995fdfeb2449023c33" name="pickup_salon_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

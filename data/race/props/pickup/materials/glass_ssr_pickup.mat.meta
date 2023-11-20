@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>8ca6d058308297d78f8f534ac41faa216d0cbd0c</guid>
+	<type>material</type>
+	<hash>dac59c0d</hash>
+	<runtimes>
+		<runtime id="8ca6d058308297d78f8f534ac41faa216d0cbd0c" name="glass_ssr_pickup" link="0" type="5"/>
+	</runtimes>
+</asset>

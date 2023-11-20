@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>6419bc36f401061da1c0d0d8ab879e5771e7a7ca</guid>
+	<type>material</type>
+	<hash>e4a76b47</hash>
+	<runtimes>
+		<runtime id="6419bc36f401061da1c0d0d8ab879e5771e7a7ca" name="detail_occlusion" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

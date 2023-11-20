@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>7b03b0a0339eab7fd33942d24d790409c810bdd4</guid>
+	<type>texture</type>
+	<hash>76321e1d</hash>
+	<runtimes>
+		<runtime id="7b03b0a0339eab7fd33942d24d790409c810bdd4" name="pickup_lights_alb.png" link="0" type="6"/>
+		<runtime id="9a9f0f23f0f5aa26f869bb4d44f3244828447b07" name="pickup_lights_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">512</parameter>
+	</parameters>
+</asset>

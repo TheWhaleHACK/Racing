@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="9a4b218d4862d58824cffb47830bfffaab728f11" base_material="fe2d846134f6524c1b27693b981fcd5eb00dd525">
+	<texture name="albedo">guid://2a34e9ed4e7842689f27c2a72b515fda380bad71</texture>
+	<texture name="normal">guid://aa47f1bc27c321eb50ce4e4e2fba0155e6b5e2b0</texture>
+	<texture name="ambient_occlusion">guid://8c8f52c48fd43f534a8c3c96d057cafd9e7a1038</texture>
+	<texture name="decal">guid://49eef14bc208162e7a2c67b542af5590d67dabaf</texture>
+	<texture name="flakes">guid://cb9e6b672f54719a610614318e927fdc554d198b</texture>
+	<texture name="dust_alb">guid://d3f5793fa55c35929ab7d7c96a5ffe94bf31d8e3</texture>
+	<texture name="dust_mask">guid://ae1d06013a65a76c0dd97bdbb0367f7e594da0c5</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+	<parameter name="albedo_tint" expression="0">0.129411772 0.266666681 0.384313762 1</parameter>
+	<parameter name="albedo_tint_frenel" expression="0">0.0509803966 0.0666666701 0.152941182 1</parameter>
+	<parameter name="metalness" expression="0">0.600000024</parameter>
+	<parameter name="fresnel_power" expression="0">1</parameter>
+	<parameter name="decal_intensiv" expression="0">0</parameter>
+	<parameter name="flakes_intensity" expression="0">0.192310005</parameter>
+	<parameter name="dust_tint" expression="0">0.470588267 0.419607878 0.372549027 1</parameter>
+	<parameter name="dust_intensity" expression="0">0.653850019</parameter>
+	<parameter name="dust_tilling" expression="0">3</parameter>
+</material>

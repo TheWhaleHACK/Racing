@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="666423930" name="car_freshner">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1922580369" immovable="1" name="car_freshner">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://d24a2dcbf14528ae04255835f0a68c107e42702f</mesh_name>
+			<surface name="trinkets_car_fresher" material="ca7efb35a525d3104e030b2f80a23ec28a9f6f39"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

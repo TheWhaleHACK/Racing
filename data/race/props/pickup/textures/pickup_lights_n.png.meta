@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>06b45f6fc37506025ff70d79dc29d8843bb78a13</guid>
+	<type>texture</type>
+	<hash>d81d5e25</hash>
+	<runtimes>
+		<runtime id="06b45f6fc37506025ff70d79dc29d8843bb78a13" name="pickup_lights_n.png" link="0" type="6"/>
+		<runtime id="e19f8856924123bd1b7011f80980acf7e10125ea" name="pickup_lights_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">512</parameter>
+	</parameters>
+</asset>

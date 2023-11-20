@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>33cb335557816cb05c7f984f255029621c901959</guid>
+	<type>texture</type>
+	<hash>9b23bb0d</hash>
+	<runtimes>
+		<runtime id="33cb335557816cb05c7f984f255029621c901959" name="salon_n.png" link="0" type="6"/>
+		<runtime id="644491d1636ca0fc49b3882b4f00ff8e1a2c8195" name="salon_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

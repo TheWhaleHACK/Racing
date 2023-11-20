@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>a87529be8c91c605cb38ffa03acdae7f36ce69d2</guid>
+	<type>texture</type>
+	<hash>46d1539d</hash>
+	<runtimes>
+		<runtime id="a87529be8c91c605cb38ffa03acdae7f36ce69d2" name="velocity_0_albedo.jpg" link="0" type="6"/>
+		<runtime id="f89461dd898af998f7c8301747018e8a61c82c61" name="velocity_0_albedo.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>5c02bc4e6337975533da80b07efd9c4fff4e5d62</guid>
+	<type>material_graph</type>
+	<hash>0149ea41</hash>
+	<runtimes>
+		<runtime id="5c02bc4e6337975533da80b07efd9c4fff4e5d62" name="clear_coat_with_ssr.mgraph" link="0"/>
+		<runtime id="a779aa01d171fb6cd6f1bfdb3589f37eb2c284c5" name="clear_coat_with_ssr" link="1" type="5"/>
+	</runtimes>
+</asset>

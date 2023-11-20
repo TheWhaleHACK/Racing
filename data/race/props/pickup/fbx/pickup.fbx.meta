@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>ee09b20f9355f82233fc1919c5ad2fa4ee39b6b3</guid>
+	<type>fbx</type>
+	<hash>0c990ca1</hash>
+	<runtimes>
+		<runtime id="ee09b20f9355f82233fc1919c5ad2fa4ee39b6b3" name="pickup.fbx" link="0"/>
+		<runtime id="318be0ea73009b417aabbbac37ba031b7bc0ddbe" name="pickup.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">212924f3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0521ea05dce2d3a07ee5727f481b5dd2f6b66309" name="wheel_front_left.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5d3f020a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1b0890d42a46c623ee63f5261be58a4d9db6a748" name="wheel_rear_left.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4d23170f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5b64220718c277baab2d23d169680afc1db3ea2b" name="wheel_front_right.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">f4260a2d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4c11f98ea1a533954deceff00780c28feb74cea2" name="pickup.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1cb5c1d7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e983fd99731eca24170d8f33cb288af646e205dd" name="brake_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2bb95ea3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="76d44d986ff97417a69a028a4ebe106190156e4c" name="left_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">99267e7e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="dce3d53b0db9495eec4121256b8f60403950569f" name="light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7e55d9a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9d8db37238427c29b548977427cadc439809d4c6" name="right_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">aaae4419</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a70ba56d8394c7e8b84b8a272f1f815ad05c60f1" name="reverse_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b2fe5e16</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1748e59ce2dac44b1713cd2e55aeb2b5a52f2490" name="wheel_rear_right.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2c2acea2</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">0</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">0</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://e983fd99731eca24170d8f33cb288af646e205dd&quot;:{&quot;pickup_hilux_emission_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_lights_emission&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://76d44d986ff97417a69a028a4ebe106190156e4c&quot;:{&quot;pickup_lights_emission&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_hilux_emission_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://dce3d53b0db9495eec4121256b8f60403950569f&quot;:{&quot;pickup_lights_emission&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4c11f98ea1a533954deceff00780c28feb74cea2&quot;:{&quot;pickup_lights&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_hilux_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_salon_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;car_paint_pickup&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_clearcoat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_glass_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a70ba56d8394c7e8b84b8a272f1f815ad05c60f1&quot;:{&quot;pickup_lights_emission&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9d8db37238427c29b548977427cadc439809d4c6&quot;:{&quot;pickup_lights_emission&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;pickup_hilux_emission_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0521ea05dce2d3a07ee5727f481b5dd2f6b66309&quot;:{&quot;pickup_hilux_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5b64220718c277baab2d23d169680afc1db3ea2b&quot;:{&quot;pickup_hilux_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1b0890d42a46c623ee63f5261be58a4d9db6a748&quot;:{&quot;pickup_hilux_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1748e59ce2dac44b1713cd2e55aeb2b5a52f2490&quot;:{&quot;pickup_hilux_mat&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">car_paint_pickup,aea23ada7d68cc71533f5b1c9aafbbcb73015eae,pickup_clearcoat,068d0dc01cd3261f8d5f3cf2502f77a9e8065cf4,pickup_glass_mat,7de350ab13d12e0e15c5de155e0498703a57510f,pickup_hilux_emission_mat,b9001e44a22394d32e2494169d713c7d417dd3b8,pickup_hilux_mat,2ba38c76553a195d30924b185320539780205c0a,pickup_lights,52daf6b9c7ec30c441ff85536aa2ca964c1100fd,pickup_lights_emission,408175468b91cbed543bbc68b6b0f4a7e934e9da,pickup_salon_mat,3a861f8f3ac887a25d7a62995fdfeb2449023c33</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

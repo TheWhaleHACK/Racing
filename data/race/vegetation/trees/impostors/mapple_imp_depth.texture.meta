@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>99df7a6d0c3498e8beaf272787bc7a5a2c8b05f1</guid>
+	<type>texture</type>
+	<hash>e501ddea</hash>
+	<runtimes>
+		<runtime id="99df7a6d0c3498e8beaf272787bc7a5a2c8b05f1" name="mapple_imp_depth.texture" link="0" type="6"/>
+		<runtime id="d24c6bafe14f2542d9be23b98a6379c4ca243a53" name="mapple_imp_depth.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R16F</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">point</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

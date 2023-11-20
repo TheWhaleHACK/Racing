@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>57452ca7970bc1da858ea771356d7a1c7e614ecb</guid>
+	<type>texture</type>
+	<hash>b0431492</hash>
+	<runtimes>
+		<runtime id="57452ca7970bc1da858ea771356d7a1c7e614ecb" name="deposit_albedo.png" link="0" type="6"/>
+		<runtime id="1e97d5ae274621356a66c1106f23212f1e075cc2" name="deposit_albedo.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

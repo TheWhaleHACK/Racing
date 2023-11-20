@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="1005973957" name="pickup">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1652406368" immovable="1" name="wheel_fl">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://0521ea05dce2d3a07ee5727f481b5dd2f6b66309</mesh_name>
+			<surface name="pickup_hilux_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.779969829324 1.84082002306 0.372630000114 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1437044799" immovable="1" name="wheel_rl">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1b0890d42a46c623ee63f5261be58a4d9db6a748</mesh_name>
+			<surface name="pickup_hilux_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.760488259072 -1.218992286 0.372845649719 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1871798418" immovable="1" name="wheel_fr">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://5b64220718c277baab2d23d169680afc1db3ea2b</mesh_name>
+			<surface name="pickup_hilux_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.779970151183 1.84081988668 0.372630000114 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1099761353" immovable="1" name="pickup">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://4c11f98ea1a533954deceff00780c28feb74cea2</mesh_name>
+			<surface name="pickup_lights" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_hilux_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_salon_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="car_paint_pickup" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_clearcoat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_glass_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1793941908" immovable="1" name="brake_light">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://e983fd99731eca24170d8f33cb288af646e205dd</mesh_name>
+			<surface name="pickup_hilux_emission_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_lights_emission" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1188159459" immovable="1" name="left_light">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://76d44d986ff97417a69a028a4ebe106190156e4c</mesh_name>
+			<surface name="pickup_lights_emission" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_hilux_emission_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1366737894" immovable="1" name="light">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://dce3d53b0db9495eec4121256b8f60403950569f</mesh_name>
+			<surface name="pickup_lights_emission" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1392151053" immovable="1" name="right_light">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://9d8db37238427c29b548977427cadc439809d4c6</mesh_name>
+			<surface name="pickup_lights_emission" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<surface name="pickup_hilux_emission_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1097737224" immovable="1" name="reverse_light">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://a70ba56d8394c7e8b84b8a272f1f815ad05c60f1</mesh_name>
+			<surface name="pickup_lights_emission" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1982461895" immovable="1" name="wheel_rr">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1748e59ce2dac44b1713cd2e55aeb2b5a52f2490</mesh_name>
+			<surface name="pickup_hilux_mat" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.760491085773 -1.2189914653 0.372845679522 1.0</transform>
+		</node>
+	</node>
+</nodes>

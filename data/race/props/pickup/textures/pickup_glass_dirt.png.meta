@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>0ba604ff76c1ce52a27d1989d356d554660b40a3</guid>
+	<type>texture</type>
+	<hash>635a2a92</hash>
+	<runtimes>
+		<runtime id="0ba604ff76c1ce52a27d1989d356d554660b40a3" name="pickup_glass_dirt.png" link="0" type="6"/>
+		<runtime id="b79acc7033aff50fe6795f2296d25419e9102ea4" name="pickup_glass_dirt.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

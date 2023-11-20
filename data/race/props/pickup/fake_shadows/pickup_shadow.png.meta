@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>4986a1ae66ae7d35335b6d10ec17dd2f555ce8c2</guid>
+	<type>texture</type>
+	<hash>b04f7ebe</hash>
+	<runtimes>
+		<runtime id="4986a1ae66ae7d35335b6d10ec17dd2f555ce8c2" name="pickup_shadow.png" link="0" type="6"/>
+		<runtime id="40326eb86713e2b788a560aa81f29801566a116c" name="pickup_shadow.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

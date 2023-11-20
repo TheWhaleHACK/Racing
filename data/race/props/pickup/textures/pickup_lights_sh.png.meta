@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>949cfcba0343e4d1cc75d7fcaa15532b7dda4e8e</guid>
+	<type>texture</type>
+	<hash>d888360e</hash>
+	<runtimes>
+		<runtime id="949cfcba0343e4d1cc75d7fcaa15532b7dda4e8e" name="pickup_lights_sh.png" link="0" type="6"/>
+		<runtime id="47af8495c1b90cf0116c3b8f0f9ff3a28d72de99" name="pickup_lights_sh.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">shading (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">512</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>479debcb124403c2f56cdbf7a633f44746963ea9</guid>
+	<type>component</type>
+	<hash>fd339be</hash>
+	<runtimes>
+		<runtime id="479debcb124403c2f56cdbf7a633f44746963ea9" name="InputController.cs" link="0"/>
+		<runtime id="84277d310c17c19f960fe47d3b007d76e7b1151f" name="InputController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>6eeafc942974bee37f9616e6c0a3c10d1defef08</guid>
+	<type>material</type>
+	<hash>fcf7135c</hash>
+	<runtimes>
+		<runtime id="6eeafc942974bee37f9616e6c0a3c10d1defef08" name="detail_grass_1" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

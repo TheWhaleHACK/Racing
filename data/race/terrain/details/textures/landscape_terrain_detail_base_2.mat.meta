@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>fb1130777171c532a7f895e2c8e4095633a45f90</guid>
+	<type>material</type>
+	<hash>23f06fb1</hash>
+	<runtimes>
+		<runtime id="fb1130777171c532a7f895e2c8e4095633a45f90" name="landscape_terrain_detail_base_2" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

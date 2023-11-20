@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>3f007c6cc7944cdbf6f91c7ed0bd99c565914060</guid>
+	<type>material_graph</type>
+	<hash>e7d4fee6</hash>
+	<runtimes>
+		<runtime id="3f007c6cc7944cdbf6f91c7ed0bd99c565914060" name="glass_with_ssr.mgraph" link="0"/>
+		<runtime id="fea51068898238a7a2ed5dda402b9371416d761c" name="glass_with_ssr" link="1" type="5"/>
+	</runtimes>
+</asset>

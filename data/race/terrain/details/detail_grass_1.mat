@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="6eeafc942974bee37f9616e6c0a3c10d1defef08" base_material="1879c38175a361597e59397b6a17b4412390e56b">
+	<state name="additional_mask">1</state>
+	<texture name="albedo">guid://3fed3aadbbc0dc281cda1167497fdf9ac10eaa31</texture>
+	<texture name="height">guid://ecd346554f7c63b091a8234f12c13862ae47dc59</texture>
+	<texture name="additional_mask">guid://810bf3da5d7d3171b1867c1cf47268cb77d227ae</texture>
+	<parameter name="size" expression="0">5</parameter>
+	<parameter name="contrast" expression="0">0.122440003</parameter>
+	<parameter name="roughness" expression="0">0.709020019</parameter>
+	<parameter name="height_scale" expression="0">0.262300014</parameter>
+	<parameter name="additional_mask_size" expression="0">40</parameter>
+</material>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="979a5ce682bf4f0dd1ea2508cddc04c7d1f17b7a" base_material="32cf5eeab5a201412181e9ac84ee591ba7ad3bbe">
+	<texture name="opacity_texture">guid://0d9e0acaf37bfba192b5e08c14cf227b30b3b59e</texture>
+	<parameter name="opacity" expression="0">0.349999994</parameter>
+	<parameter name="emission_color" expression="0">0 1 0 1</parameter>
+</material>

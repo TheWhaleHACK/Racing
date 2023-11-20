@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>16502cc8afe0e9879615993a6d3ed751d953287c</guid>
+	<type>texture</type>
+	<hash>82d92554</hash>
+	<runtimes>
+		<runtime id="16502cc8afe0e9879615993a6d3ed751d953287c" name="grass_high_alb.tga" link="0" type="6"/>
+		<runtime id="5be569aba0e2730ede245f154b372570af167a0f" name="grass_high_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">Auto (DXT1 or DXT5)</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">point</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

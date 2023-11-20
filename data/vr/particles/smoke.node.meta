@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>ba4d821e492482e547cdd700e48cde5faf771832</guid>
+	<type>node</type>
+	<hash>d2d3aea3</hash>
+	<runtimes>
+		<runtime id="ba4d821e492482e547cdd700e48cde5faf771832" name="smoke.node" link="0" type="3"/>
+	</runtimes>
+</asset>

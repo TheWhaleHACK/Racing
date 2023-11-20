@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>0956e91519c427708d0b940f787a722249724b19</guid>
+	<type>texture</type>
+	<hash>5acd2f25</hash>
+	<runtimes>
+		<runtime id="0956e91519c427708d0b940f787a722249724b19" name="trinkets_car_fresher_sh.png" link="0" type="6"/>
+		<runtime id="9ffa29a91a3d66f4166665c31c38d046a5236aed" name="trinkets_car_fresher_sh.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">shading (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>c4bb707fe52d43d2884311098a8166d4deada423</guid>
+	<type>texture</type>
+	<hash>ca1c7138</hash>
+	<runtimes>
+		<runtime id="c4bb707fe52d43d2884311098a8166d4deada423" name="Ground025_2K_Displacement.png" link="0" type="6"/>
+		<runtime id="c2113b26bb96184df041dd4849f9e0076e111dba" name="Ground025_2K_Displacement.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">parallax</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

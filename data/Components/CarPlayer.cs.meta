@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>e4f0053f97c71a59e66ed32b2af542ef427c0c7d</guid>
+	<type>component</type>
+	<hash>a4a98c8</hash>
+	<runtimes>
+		<runtime id="e4f0053f97c71a59e66ed32b2af542ef427c0c7d" name="CarPlayer.cs" link="0"/>
+		<runtime id="af999e850a3f9c19f2739d911751d46d1149e4d3" name="CarPlayer.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

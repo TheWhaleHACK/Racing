@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>21496ef2050001a9a7995ef420e1fdc3bb0f8846</guid>
+	<type>material</type>
+	<hash>ef945e3</hash>
+	<runtimes>
+		<runtime id="21496ef2050001a9a7995ef420e1fdc3bb0f8846" name="detail_deposit" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

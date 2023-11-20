@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>408175468b91cbed543bbc68b6b0f4a7e934e9da</guid>
+	<type>material</type>
+	<hash>74062678</hash>
+	<runtimes>
+		<runtime id="408175468b91cbed543bbc68b6b0f4a7e934e9da" name="pickup_lights_emission" link="0" type="5"/>
+	</runtimes>
+</asset>

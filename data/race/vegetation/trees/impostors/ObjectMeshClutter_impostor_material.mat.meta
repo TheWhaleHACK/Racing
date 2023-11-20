@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>ab78cf6354dded662740a58d277289884e541f47</guid>
+	<type>material</type>
+	<hash>a845972b</hash>
+	<runtimes>
+		<runtime id="ab78cf6354dded662740a58d277289884e541f47" name="ObjectMeshClutter_impostor_material" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

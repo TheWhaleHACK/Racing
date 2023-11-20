@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="ObjectMeshClutter" id="1410267302" name="trees">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://7c573f4471ea62c03f76218a117569330dacb020</mesh_name>
+		<collision>1</collision>
+		<intersection>1</intersection>
+		<visible_distance>30</visible_distance>
+		<fade_distance>30</fade_distance>
+		<size_x>5000</size_x>
+		<size_y>5000</size_y>
+		<step>250</step>
+		<density>0.00300000003</density>
+		<threshold>0.102480002</threshold>
+		<angle>0</angle>
+		<min_scale_mean>0.400000006</min_scale_mean>
+		<min_scale_spread>0</min_scale_spread>
+		<max_scale_mean>2.0999999</max_scale_mean>
+		<max_scale_spread>0.300000012</max_scale_spread>
+		<offset_mean>0</offset_mean>
+		<offset_spread>0</offset_spread>
+		<rotation_mean>0 0 0</rotation_mean>
+		<rotation_spread>0 0 180</rotation_spread>
+		<terrain_mask>6</terrain_mask>
+		<surface name="tree_twigs_mesh_base" cast_world_shadow="0" cast_env_probe_shadow="0" max_visible_distance="15" max_fade_distance="15" material="17f6d28d48383d24c6d035bb5e1921b7a0aa6811" intersection="1"/>
+		<surface name="tree_branches_lod0_mesh_base" cast_world_shadow="0" cast_env_probe_shadow="0" max_visible_distance="7" max_fade_distance="5" material="3276d348c6ae5e07fb6f83ba4cbebfd1ddf4f6fc" intersection="1"/>
+		<surface name="tree_branches_lod1_mesh_base" cast_world_shadow="0" cast_env_probe_shadow="0" min_visible_distance="7" max_visible_distance="15" min_fade_distance="5" max_fade_distance="10" material="3276d348c6ae5e07fb6f83ba4cbebfd1ddf4f6fc" intersection="1"/>
+		<surface name="tree_branches_lod2_mesh_base" cast_world_shadow="0" cast_env_probe_shadow="0" min_visible_distance="15" max_visible_distance="30" min_fade_distance="5" max_fade_distance="30" material="3276d348c6ae5e07fb6f83ba4cbebfd1ddf4f6fc" intersection="1"/>
+		<surface name="tree_trunk_lod0_mesh_base" cast_env_probe_shadow="0" max_visible_distance="7" max_fade_distance="5" material="17f6d28d48383d24c6d035bb5e1921b7a0aa6811" intersection="1"/>
+		<surface name="tree_trunk_lod1_mesh_base" cast_env_probe_shadow="0" min_visible_distance="7" max_visible_distance="15" min_fade_distance="5" max_fade_distance="10" material="17f6d28d48383d24c6d035bb5e1921b7a0aa6811" intersection="1"/>
+		<surface name="tree_trunk_lod2_mesh_base" cast_env_probe_shadow="0" physics_intersection="1" collision="1" min_visible_distance="15" max_visible_distance="30" min_fade_distance="5" max_fade_distance="30" material="17f6d28d48383d24c6d035bb5e1921b7a0aa6811" intersection="1"/>
+		<surface name="tree_shadow_mesh_base" viewport_mask="0x0" material="3276d348c6ae5e07fb6f83ba4cbebfd1ddf4f6fc" intersection="1"/>
+		<transform>1.0000001 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectGrass" id="1081718733" name="trees_impostors">
+			<thinning>1</thinning>
+			<variation>0</variation>
+			<orientation>0</orientation>
+			<intersection>1</intersection>
+			<num_textures>1</num_textures>
+			<seed>0</seed>
+			<size_x>5000</size_x>
+			<size_y>5000</size_y>
+			<step>2000</step>
+			<subdivision>8</subdivision>
+			<density>0.00300000003</density>
+			<threshold>0.120739996</threshold>
+			<angle>0</angle>
+			<probability>1 1 1 1</probability>
+			<min_bend_mean>0 0 0 0</min_bend_mean>
+			<min_bend_spread>0 0 0 0</min_bend_spread>
+			<max_bend_mean>0 0 0 0</max_bend_mean>
+			<max_bend_spread>0 0 0 0</max_bend_spread>
+			<min_height_mean>0.400000006 9.99999997e-07 9.99999997e-07 9.99999997e-07</min_height_mean>
+			<min_height_spread>0 0 0 0</min_height_spread>
+			<max_height_mean>2.0999999 1 1 1</max_height_mean>
+			<max_height_spread>0.300000012 0.5 0.5 0.5</max_height_spread>
+			<aspect_mean>1 1 1 1</aspect_mean>
+			<aspect_spread>0 0 0 0</aspect_spread>
+			<offset_mean>0 0 0 0</offset_mean>
+			<offset_spread>0 0 0 0</offset_spread>
+			<rotation_mean>0 0 0 0</rotation_mean>
+			<rotation_spread>180 180 180 180</rotation_spread>
+			<terrain_masks>6 -1 -1 -1</terrain_masks>
+			<surface name="grass" min_visible_distance="20" min_fade_distance="30" material="ab78cf6354dded662740a58d277289884e541f47"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="ObjectMeshStatic" id="325204971" immovable="1" name="bigleafmaple_mature">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://7c573f4471ea62c03f76218a117569330dacb020</mesh_name>
+		<surface name="tree_twigs_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_branches_lod0_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_branches_lod1_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_branches_lod2_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_trunk_lod0_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_trunk_lod1_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_trunk_lod2_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="tree_shadow_mesh_base" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

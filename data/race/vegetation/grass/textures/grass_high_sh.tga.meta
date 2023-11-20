@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>e7d198ba6f17d0d1c240d3fca1cc1f2bd36aaa8e</guid>
+	<type>texture</type>
+	<hash>f9b4f652</hash>
+	<runtimes>
+		<runtime id="e7d198ba6f17d0d1c240d3fca1cc1f2bd36aaa8e" name="grass_high_sh.tga" link="0" type="6"/>
+		<runtime id="20ac30953f15c8f0be09c78f45680fa2bfc44a99" name="grass_high_sh.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">shading (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

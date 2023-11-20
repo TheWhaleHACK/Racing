@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>4a0e87850527d320fbb36bff0d7a0952745a1889</guid>
+	<type>texture</type>
+	<hash>1ad635f7</hash>
+	<runtimes>
+		<runtime id="4a0e87850527d320fbb36bff0d7a0952745a1889" name="pickup_lights_trsl.png" link="0" type="6"/>
+		<runtime id="f7714b875176933afec789511630327c7f1aebab" name="pickup_lights_trsl.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">R8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">512</parameter>
+	</parameters>
+</asset>

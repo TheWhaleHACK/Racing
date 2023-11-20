@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>8609129e7c5e946f78a318314a182f4990490b78</guid>
+	<type>texture</type>
+	<hash>6d030bdd</hash>
+	<runtimes>
+		<runtime id="8609129e7c5e946f78a318314a182f4990490b78" name="tree_bigleafmaple_branches_n.tga" link="0" type="6"/>
+		<runtime id="818a40e8a89f047fb723a589e60ed352290f2b68" name="tree_bigleafmaple_branches_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

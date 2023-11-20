@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="2b882e6a3d318ac1a214e52c2c1a1e9bdf17433e" base_material="32cf5eeab5a201412181e9ac84ee591ba7ad3bbe">
+	<parameter name="opacity" expression="0">0.349999994</parameter>
+	<parameter name="emission_color" expression="0">0.274509817 1 0.239215702 1</parameter>
+</material>

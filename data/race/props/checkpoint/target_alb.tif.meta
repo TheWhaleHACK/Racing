@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>a4e43473a8266f36f2f81d1d4676fbd8d0e9cd57</guid>
+	<type>texture</type>
+	<hash>8ddbe04a</hash>
+	<runtimes>
+		<runtime id="a4e43473a8266f36f2f81d1d4676fbd8d0e9cd57" name="target_alb.tif" link="0" type="6"/>
+		<runtime id="0d9e0acaf37bfba192b5e08c14cf227b30b3b59e" name="target_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

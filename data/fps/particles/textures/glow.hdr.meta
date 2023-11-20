@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>8190231c70feb50aedd43421653d4267c1676d13</guid>
+	<type>texture</type>
+	<hash>90b26c2c</hash>
+	<runtimes>
+		<runtime id="8190231c70feb50aedd43421653d4267c1676d13" name="glow.hdr" link="0" type="6"/>
+		<runtime id="37b28c78c5d70a422728952736bac460e771dcaf" name="glow.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">RGB32F</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

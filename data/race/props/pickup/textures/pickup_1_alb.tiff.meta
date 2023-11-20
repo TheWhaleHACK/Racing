@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>4cc6d4b520f4de90359ba0afa872d642781420b9</guid>
+	<type>texture</type>
+	<hash>88b9d784</hash>
+	<runtimes>
+		<runtime id="4cc6d4b520f4de90359ba0afa872d642781420b9" name="pickup_1_alb.tiff" link="0" type="6"/>
+		<runtime id="c8332efe628f8a45ef8d76e05fdb3cbf636c2312" name="pickup_1_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">2048</parameter>
+		<parameter type="string" name="image_format">Auto (DXT1 or DXT5)</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgba)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">2048</parameter>
+	</parameters>
+</asset>

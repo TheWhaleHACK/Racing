@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>676a7cfd1f591a38e3df9837c2ce982a4da76981</guid>
+	<type>material</type>
+	<hash>c4f004f4</hash>
+	<runtimes>
+		<runtime id="676a7cfd1f591a38e3df9837c2ce982a4da76981" name="pickup_details" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="5ba1239c9209ea4b7b9cbb2e3d76c8b5491c4290" base_material="1879c38175a361597e59397b6a17b4412390e56b">
+	<texture name="albedo">guid://86310cf7b64a6db1a16b5043f1d8aa9da9357573</texture>
+	<texture name="height">guid://1f4904a9930fcb56132d38b17a3d5f3505e1f329</texture>
+	<parameter name="size" expression="0">10</parameter>
+	<parameter name="albedo_opacity" expression="0">0.185179994</parameter>
+	<parameter name="height_opacity" expression="0">0.481480002</parameter>
+	<parameter name="height_scale" expression="0">0.995899975</parameter>
+</material>

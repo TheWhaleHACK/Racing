@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>702b5fb38f3f2176ee7eaa5d73d3a818dd800c97</guid>
+	<type>texture</type>
+	<hash>718eaa9b</hash>
+	<runtimes>
+		<runtime id="702b5fb38f3f2176ee7eaa5d73d3a818dd800c97" name="Mask6_Grass.tif" link="0" type="6"/>
+		<runtime id="3d70d3aefb7f073552ee6f104b5af72f72213ac2" name="Mask6_Grass.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

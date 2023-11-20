@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>220f206527f8d6805c08d7df83abc3b27882cf69</guid>
+	<type>material_graph</type>
+	<hash>f27538e4</hash>
+	<runtimes>
+		<runtime id="220f206527f8d6805c08d7df83abc3b27882cf69" name="car_paint_flakes_dust_decal.mgraph" link="0"/>
+		<runtime id="fe2d846134f6524c1b27693b981fcd5eb00dd525" name="car_paint_flakes_dust_decal" link="1" type="5"/>
+	</runtimes>
+</asset>

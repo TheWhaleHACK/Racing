@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>17f2c7862b58792d059a08a83d1c53e751dc401a</guid>
+	<type>texture</type>
+	<hash>b294e0b4</hash>
+	<runtimes>
+		<runtime id="17f2c7862b58792d059a08a83d1c53e751dc401a" name="particle_rain_drop2_alb.tga" link="0" type="6"/>
+		<runtime id="68b290b1546fd25c1ee94a0b7cdb17ee3555fe75" name="particle_rain_drop2_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">Auto (DXT1 or DXT5)</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgba)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="4c92856607fc5d8d544ae18860609747638bebfa" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6"/>
+	<state name="animation">1</state>
+	<state name="refraction">1</state>
+	<state name="light_world">0</state>
+	<texture name="albedo">guid://68b290b1546fd25c1ee94a0b7cdb17ee3555fe75</texture>
+	<texture name="normal">guid://1e65882f087097c2588ff439709e10440594ded3</texture>
+	<parameter name="albedo_color" expression="0">0.725490212 0.725490212 0.725490212 0.392156869</parameter>
+	<parameter name="animation_size" expression="0">4 1</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="refraction_scale" expression="0">1.44459999</parameter>
+	<parameter name="environment_scale" expression="0">4</parameter>
+</material>

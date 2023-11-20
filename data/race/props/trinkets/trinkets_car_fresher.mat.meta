@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>ca7efb35a525d3104e030b2f80a23ec28a9f6f39</guid>
+	<type>material</type>
+	<hash>92d8366c</hash>
+	<runtimes>
+		<runtime id="ca7efb35a525d3104e030b2f80a23ec28a9f6f39" name="trinkets_car_fresher" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="ca7efb35a525d3104e030b2f80a23ec28a9f6f39" base_material="73ea27d94f646f6429ae73732285a236131fb41d">
+	<texture name="albedo">guid://8594106c9e0ad0dbf795d07edc6abdc57db41460</texture>
+	<texture name="shading">guid://9ffa29a91a3d66f4166665c31c38d046a5236aed</texture>
+	<texture name="normal">guid://6d11b8d9e32ccc6494e92c730b3707366f5fd51d</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+</material>

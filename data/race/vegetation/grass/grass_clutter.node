@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="628128150" name="grass">
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshClutter" id="1075083171" name="grass_close">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://b8669438f22aca37548c222ab3436b81b349ceec</mesh_name>
+			<orientation>1</orientation>
+			<intersection>1</intersection>
+			<visible_distance>20</visible_distance>
+			<fade_distance>30</fade_distance>
+			<size_x>5000</size_x>
+			<size_y>5000</size_y>
+			<step>250</step>
+			<density>5</density>
+			<threshold>0.0465800017</threshold>
+			<angle>0</angle>
+			<min_scale_mean>2.29999995</min_scale_mean>
+			<min_scale_spread>0.200000003</min_scale_spread>
+			<max_scale_mean>2.5999999</max_scale_mean>
+			<max_scale_spread>0.5</max_scale_spread>
+			<offset_mean>-0.100000001</offset_mean>
+			<offset_spread>0</offset_spread>
+			<rotation_mean>0 0 0</rotation_mean>
+			<rotation_spread>0 0 180</rotation_spread>
+			<terrain_mask>0</terrain_mask>
+			<surface name="_lod_0_grass_mesh_high" cast_world_shadow="0" max_visible_distance="4" physics_friction="1" physics_restitution="1" material="3234e026be23794ddf15ca48002ae907192492ba" intersection="1"/>
+			<surface name="_lod_1_grass_mesh_high" cast_world_shadow="0" min_visible_distance="4" max_visible_distance="10" max_fade_distance="10" physics_friction="1" physics_restitution="1" material="3234e026be23794ddf15ca48002ae907192492ba" intersection="1"/>
+			<transform>1 0 0 0.0 0 0.99999988 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshClutter" id="558451309" name="grass_far">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://b8669438f22aca37548c222ab3436b81b349ceec</mesh_name>
+			<orientation>1</orientation>
+			<intersection>1</intersection>
+			<visible_distance>40</visible_distance>
+			<fade_distance>30</fade_distance>
+			<size_x>5000</size_x>
+			<size_y>5000</size_y>
+			<step>250</step>
+			<density>1</density>
+			<threshold>0.0465800017</threshold>
+			<angle>0</angle>
+			<min_scale_mean>3.20000005</min_scale_mean>
+			<min_scale_spread>0.200000003</min_scale_spread>
+			<max_scale_mean>3.70000005</max_scale_mean>
+			<max_scale_spread>0.5</max_scale_spread>
+			<offset_mean>-0.100000001</offset_mean>
+			<offset_spread>0</offset_spread>
+			<rotation_mean>0 0 0</rotation_mean>
+			<rotation_spread>0 0 180</rotation_spread>
+			<terrain_mask>0</terrain_mask>
+			<surface name="_lod_0_grass_mesh_high" cast_world_shadow="0" max_visible_distance="4" physics_friction="1" physics_restitution="1" material="3234e026be23794ddf15ca48002ae907192492ba" intersection="1"/>
+			<surface name="_lod_1_grass_mesh_high" cast_world_shadow="0" min_visible_distance="4" max_visible_distance="40" max_fade_distance="30" physics_friction="1" physics_restitution="1" material="3234e026be23794ddf15ca48002ae907192492ba" intersection="1"/>
+			<transform>1 0 0 0.0 0 0.99999988 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

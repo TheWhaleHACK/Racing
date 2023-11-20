@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="ObjectMeshStatic" id="1822880700" immovable="1" name="grass_high">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://b8669438f22aca37548c222ab3436b81b349ceec</mesh_name>
+		<surface name="_lod_0_grass_mesh_high" material="3234e026be23794ddf15ca48002ae907192492ba"/>
+		<surface name="_lod_1_grass_mesh_high" material="3234e026be23794ddf15ca48002ae907192492ba"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

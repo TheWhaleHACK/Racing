@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>1b4b2ad0c09effef5cd22c82098901f9807e4304</guid>
+	<type>texture</type>
+	<hash>0910b96c</hash>
+	<runtimes>
+		<runtime id="1b4b2ad0c09effef5cd22c82098901f9807e4304" name="pickup_lights_e.png" link="0" type="6"/>
+		<runtime id="7029c854249397a3b54398a647e5d7cd8a1b96c8" name="pickup_lights_e.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">emission</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">512</parameter>
+	</parameters>
+</asset>

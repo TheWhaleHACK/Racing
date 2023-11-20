@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>751556451ba0d2e04f7ee8bf9143df1270847349</guid>
+	<type>texture</type>
+	<hash>f4e97ba8</hash>
+	<runtimes>
+		<runtime id="751556451ba0d2e04f7ee8bf9143df1270847349" name="deposit_height.png" link="0" type="6"/>
+		<runtime id="fb38e414ef2680634235ea66f8867e8dcd748e88" name="deposit_height.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">1024</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">parallax</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">1024</parameter>
+	</parameters>
+</asset>

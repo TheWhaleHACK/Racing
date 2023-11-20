@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.17.0.1">
+	<node type="NodeDummy" id="1464812157" name="hands">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshSkinned" id="1042817464" name="hands">
+			<mesh_name>guid://60020a35ebc7961062ebf22feb7ff9c29363ee39</mesh_name>
+			<fps_visible_camera>-1</fps_visible_camera>
+			<fps_visible_shadow>30</fps_visible_shadow>
+			<fps_invisible>0</fps_invisible>
+			<speed>30</speed>
+			<surface name="hands_mat" material="6b953d4d25f4be4842b54d076203a6baf33686d1"/>
+			<transform>1 6.93771004924e-23 3.82137123179e-15 0.0 2.41430667903e-22 1 -8.74227800037e-08 0.0 -3.82137123179e-15 8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

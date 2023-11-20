@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>9a4b218d4862d58824cffb47830bfffaab728f11</guid>
+	<type>material</type>
+	<hash>bf0d1e92</hash>
+	<runtimes>
+		<runtime id="9a4b218d4862d58824cffb47830bfffaab728f11" name="car_paint_pickup_blue" link="0" type="5"/>
+	</runtimes>
+</asset>

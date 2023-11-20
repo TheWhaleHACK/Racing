@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>c4d4c5904d045bafd6465542776b93b996d229c4</guid>
+	<type>material</type>
+	<hash>cc7b5ae3</hash>
+	<runtimes>
+		<runtime id="c4d4c5904d045bafd6465542776b93b996d229c4" name="pickup_clearcoat_1" link="0" type="5"/>
+	</runtimes>
+</asset>

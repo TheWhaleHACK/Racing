@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>3f713473af4f6f36a60d1d1dbc87fbd895c6cd57</guid>
+	<type>material_graph</type>
+	<hash>2e0f5d25</hash>
+	<runtimes>
+		<runtime id="3f713473af4f6f36a60d1d1dbc87fbd895c6cd57" name="pbr_base.mgraph" link="0"/>
+		<runtime id="73ea27d94f646f6429ae73732285a236131fb41d" name="pbr_base" link="1" type="5"/>
+	</runtimes>
+</asset>

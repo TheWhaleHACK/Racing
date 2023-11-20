@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>1bd3220cdec495f37f5297f590f6ca3172afbcce</guid>
+	<type>texture</type>
+	<hash>b519faba</hash>
+	<runtimes>
+		<runtime id="1bd3220cdec495f37f5297f590f6ca3172afbcce" name="tree_bigleafmaple_trunk_alb.tga" link="0" type="6"/>
+		<runtime id="5f8e1502c97c24ca733dab4f13b02a5dbddbb4cc" name="tree_bigleafmaple_trunk_alb.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">512</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">64</parameter>
+	</parameters>
+</asset>

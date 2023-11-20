@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>45cc72fa780a66117149e83c1d93a66bd1b008ce</guid>
+	<type>texture</type>
+	<hash>4eddf6f3</hash>
+	<runtimes>
+		<runtime id="45cc72fa780a66117149e83c1d93a66bd1b008ce" name="Mask4_Rocks.tif" link="0" type="6"/>
+		<runtime id="5e7c4f645124d373adc88236aac5141d654986d8" name="Mask4_Rocks.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

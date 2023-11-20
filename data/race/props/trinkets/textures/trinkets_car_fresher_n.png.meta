@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>2de00145f10d81e08abdcbbfcce76612ce9c4e49</guid>
+	<type>texture</type>
+	<hash>ac9718d9</hash>
+	<runtimes>
+		<runtime id="2de00145f10d81e08abdcbbfcce76612ce9c4e49" name="trinkets_car_fresher_n.png" link="0" type="6"/>
+		<runtime id="6d11b8d9e32ccc6494e92c730b3707366f5fd51d" name="trinkets_car_fresher_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

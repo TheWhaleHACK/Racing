@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.17.0.1" name="Lifetime" guid="d798d617fcbdfc8a6e2dc2610bad784cb198573b" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="lifeTime" type="float" tooltip="Время жизни объекта (в секундах)">1</parameter>
+</property>

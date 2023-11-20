@@ -1,0 +1,36 @@
+G:\Unigine projects\Racing\bin\Racing_x64d.exe
+G:\Unigine projects\Racing\bin\Racing_x64d.deps.json
+G:\Unigine projects\Racing\bin\Racing_x64d.runtimeconfig.json
+G:\Unigine projects\Racing\bin\Racing_x64d.dll
+G:\Unigine projects\Racing\bin\Racing_x64d.pdb
+G:\Unigine projects\Racing\bin\UnigineSharp_double_x64d.pdb
+G:\Unigine projects\Racing\bin\UnigineSharp_double_x64d.xml
+G:\Unigine projects\Racing\obj\Debug\Racing.csproj.AssemblyReference.cache
+G:\Unigine projects\Racing\obj\Debug\Racing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Unigine projects\Racing\obj\Debug\Racing.AssemblyInfoInputs.cache
+G:\Unigine projects\Racing\obj\Debug\Racing.AssemblyInfo.cs
+G:\Unigine projects\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+G:\Unigine projects\Racing\obj\Debug\Racing.csproj.CopyComplete
+G:\Unigine projects\Racing\obj\Debug\Racing_x64d.dll
+G:\Unigine projects\Racing\obj\Debug\refint\Racing_x64d.dll
+G:\Unigine projects\Racing\obj\Debug\Racing_x64d.pdb
+G:\Unigine projects\Racing\obj\Debug\Racing.genruntimeconfig.cache
+G:\Unigine projects\Racing\obj\Debug\ref\Racing_x64d.dll
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\Racing_x64d.exe
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\Racing_x64d.deps.json
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\Racing_x64d.runtimeconfig.json
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\Racing_x64d.dll
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\Racing_x64d.pdb
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\UnigineSharp_double_x64d.pdb
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\bin\UnigineSharp_double_x64d.xml
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.csproj.AssemblyReference.cache
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.AssemblyInfoInputs.cache
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.AssemblyInfo.cs
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.csproj.CopyComplete
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing_x64d.dll
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\refint\Racing_x64d.dll
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing_x64d.pdb
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\Racing.genruntimeconfig.cache
+C:\Users\saintazimov\Desktop\отчеты,дз и прочая бюрократическая херня\ПД\Racing\obj\Debug\ref\Racing_x64d.dll

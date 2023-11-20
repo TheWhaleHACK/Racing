@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>17cebe1d628328d87c761657c9d3bfca95542ca1</guid>
+	<type>texture</type>
+	<hash>4ce97dec</hash>
+	<runtimes>
+		<runtime id="17cebe1d628328d87c761657c9d3bfca95542ca1" name="pickup_1_sh.tiff" link="0" type="6"/>
+		<runtime id="b7365d8c56237b7bce723a9ef504e165a259a380" name="pickup_1_sh.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">2048</parameter>
+		<parameter type="string" name="image_format">DXT5</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">specular</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">2048</parameter>
+	</parameters>
+</asset>

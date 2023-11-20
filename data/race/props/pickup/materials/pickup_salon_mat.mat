@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="3a861f8f3ac887a25d7a62995fdfeb2449023c33" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="ao_map">1</state>
+	<texture name="albedo">guid://1fd3ef252617d6401742549f1c0b9972444b2a29</texture>
+	<texture name="shading">guid://5100ed3361f850f60e5313dd012603984aa3b217</texture>
+	<texture name="normal">guid://644491d1636ca0fc49b3882b4f00ff8e1a2c8195</texture>
+	<texture name="ambient_occlusion">guid://024487e96dd1b034115d9e0359702b86388e8d2d</texture>
+	<parameter name="material_mask" expression="0">0</parameter>
+	<parameter name="metalness" expression="0">1</parameter>
+</material>

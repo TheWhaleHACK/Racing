@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>33e70d1c361fc5cb75ade0ae6ec6b0353be80410</guid>
+	<type>texture</type>
+	<hash>45a106b7</hash>
+	<runtimes>
+		<runtime id="33e70d1c361fc5cb75ade0ae6ec6b0353be80410" name="particle_rain_drop2_n.png" link="0" type="6"/>
+		<runtime id="1e65882f087097c2588ff439709e10440594ded3" name="particle_rain_drop2_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

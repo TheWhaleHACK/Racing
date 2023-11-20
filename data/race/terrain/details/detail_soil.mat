@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.17.0.1" guid="a1d8b14e1bb30855ca253db05d17354f6a912262" base_material="1879c38175a361597e59397b6a17b4412390e56b">
+	<texture name="albedo">guid://7021a7e3bc33ebe68485920d72ad8c08e1d23fc7</texture>
+	<texture name="height">guid://c2113b26bb96184df041dd4849f9e0076e111dba</texture>
+	<parameter name="size" expression="0">5</parameter>
+	<parameter name="height_scale" expression="0">1</parameter>
+</material>

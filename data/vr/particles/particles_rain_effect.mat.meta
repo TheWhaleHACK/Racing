@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>4c92856607fc5d8d544ae18860609747638bebfa</guid>
+	<type>material</type>
+	<hash>3a25f95b</hash>
+	<runtimes>
+		<runtime id="4c92856607fc5d8d544ae18860609747638bebfa" name="particles_rain_effect" link="0" type="5"/>
+	</runtimes>
+</asset>

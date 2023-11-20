@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.17.0.1">
+	<guid>68291bb19bd6e15cc61f0d0bf147feee11e7b975</guid>
+	<type>texture</type>
+	<hash>8525c1ac</hash>
+	<runtimes>
+		<runtime id="68291bb19bd6e15cc61f0d0bf147feee11e7b975" name="mapple_imp_n.tga" link="0" type="6"/>
+		<runtime id="36bd0e13b77f3c56245547bd10cde5f895bc70f7" name="mapple_imp_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">point</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>
